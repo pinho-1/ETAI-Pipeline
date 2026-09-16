@@ -2,6 +2,15 @@
 
 20231674 - João Pinho
 
+Week 2:
+DT: Train acc: 0.829
+    Test acc: 0.627
+
+LR: Train acc: 0.679
+    Test acc: 0.680
+
+Current best model: Logistic Regression because it has a better fit than the Decision Tree, which is overfitting. So overall, the Logistic Regression would generalize better
+
 # Baseline Predictive Pipeline -- ETAI
 
 This is the **starting point** for your semester project: a small but *complete* predictive pipeline -- every piece a real project needs (entry point, config, data loading, preprocessing, model, evaluation), just kept as simple as possible for now.
